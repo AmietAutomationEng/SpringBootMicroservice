@@ -1,0 +1,4 @@
+com\example\model\Person.class
+com\example\ContractRestServiceApplication.class
+com\example\service\CreatePersonService.class
+com\example\controller\PersonRestController.class
